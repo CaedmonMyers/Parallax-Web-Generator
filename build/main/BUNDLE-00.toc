@@ -1,0 +1,3 @@
+([('main',
+   '/Users/caedmonmyers/PycharmProjects/pythonProject5/dist/main',
+   'EXECUTABLE')],)
